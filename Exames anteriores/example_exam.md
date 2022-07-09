@@ -90,6 +90,9 @@ Key partners, key activities, key resources, cost structure, value proposition, 
 ### 5. What could have caused the situation described in the text? And what would you advise João and António to correct it? Justify your answer by making the necessary assumptions.
 
 What happened in this situation is that although the company is making great sales and is being profitable, the cash flow results are negative, so they don't have cash to pay to the suppliers.
+
 The company has to pay cash to all orders, but at the same time they offered a 90-day credit policy to their customers, so they only start to receive the money from sales 3 months after the sale been done. During that time, they have to survive with the initial cash and deposits, but that money is not sufficient to pay all the costs to suppliers.
+
 This the difference between the income statement and cash flow. While in income  statement, the sales/ liabilities values are added at the moment the trade is done, in cash flow the values are only added when the transaction is effectively done. So, a company can have profits and being succeded in the businesses, but at the same time have negative cash flow face a bankruptcy situation.
+
 A possible advise for João and António is to try to negotiate with suppliers in order to a similar benefit with them as they have with clients, as they are having success in the business. This wait, they can wait for the money from sales to come and then pay to suppliers and continue with their successful business.
